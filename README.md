@@ -21,7 +21,7 @@ Introdução à Inteligência Artificial. Agentes inteligentes. Resolução de p
 
 ### Prática 6 - Clusterização
 1. Agrupamento para classificar novos pacientes da seguinte forma:
-  * divida a base para treinamento e teste
-  * realize o agrupamento na base de treinamento
-  * utilize a função predict do agrupamento para classificar a base de teste (analisando a qual classe pertence o grupo indicado pelo predict)
-  * calcule a média de acerto.
+  * dividir a base para treinamento e teste
+  * realizar o agrupamento na base de treinamento
+  * utilizar a função predict do agrupamento para classificar a base de teste (analisando a qual classe pertence o grupo indicado pelo predict)
+  * calcular a média de acerto.

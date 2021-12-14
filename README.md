@@ -16,6 +16,11 @@ Introdução à Inteligência Artificial. Agentes inteligentes. Resolução de p
 3. Definir Max Alpha Beta
 4. Definir Min Alpha Beta
 
+### Prática 3 - Algoritmo Genético
+1. Variar parâmetros da solução
+2. Resolver com Simulated Annealing.
+3. Implementar PSO e aplicar ao problema.
+
 ### Prática 4 - Iris Database
 1. Implementar o Naive Bayes Wrapper
 
